@@ -5,7 +5,7 @@
 ## Rodando a aplicação
 Na primeira execução rodar o comando:
 ```
-yarn add
+yarn
 ```
 Para rodar a aplicação:
 ```
